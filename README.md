@@ -74,9 +74,9 @@ Este projeto pode servir como base para o desenvolvimento de:
 
 ## Foto do projeto
 
-| LED apagado | LED aceso |
+| Led apagado | Led aceso |
 |---|---|
-| <img src="https://github.com/user-attachments/assets/cde1c191-3a43-4a09-97a5-e6b4d5c3c0ab" alt="Projeto com o LED apagado" width="300"> | <img src="https://github.com/user-attachments/assets/60114038-9a2c-4a8d-8041-c403663d6179" alt="Projeto com o LED aceso" width="300"> |
+| <img src="https://github.com/user-attachments/assets/cde1c191-3a43-4a09-97a5-e6b4d5c3c0ab" alt="Projeto com o Led apagado" width="300"> | <img src="https://github.com/user-attachments/assets/60114038-9a2c-4a8d-8041-c403663d6179" alt="Projeto com o Led aceso" width="300"> |
 
 ## 👨‍💻 Autor
 
