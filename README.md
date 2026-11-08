@@ -72,10 +72,12 @@ Este projeto pode servir como base para o desenvolvimento de:
 - **Resistor de 220 Ω:** limita a corrente elétrica.
 - **LED:** acende quando o ESP32 identifica a detecção do sensor.
 
-## Foto do projeto
-  ![imagem do projeto com led apagado](<img width="1335" height="900" alt="image" src="https://github.com/user-attachments/assets/cde1c191-3a43-4a09-97a5-e6b4d5c3c0ab" />
-)  ![imagem do projeto com led apagado](<img width="1558" height="756" alt="image" src="https://github.com/user-attachments/assets/60114038-9a2c-4a8d-8041-c403663d6179" />
-)
+## Foto do projeto  
+
+<img src="<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/cde1c191-3a43-4a09-97a5-e6b4d5c3c0ab" />" alt="imagem do projeto com led apagado">
+
+<img src="<<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/60114038-9a2c-4a8d-8041-c403663d6179" />" alt="imagem do projeto com led aceso">
+
 ## 👨‍💻 Autor
 
 Desenvolvido como projeto prático de estudo utilizando ESP32 e componentes eletrônicos.
